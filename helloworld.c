@@ -4,6 +4,7 @@ void main()
 {
 print("hello Github world")
   print("You are genius")
-  print("I dont think so bitch")
+  print("I dont think so 
+")
 getch();
 }t
